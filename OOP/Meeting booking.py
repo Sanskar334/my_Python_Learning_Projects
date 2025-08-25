@@ -21,7 +21,6 @@ class meeting_manager:
                   file.write(str(meeting) + "\n")
         
         def book_meeting(self):
-
             organiser = input("\nOrganiser of this meeting: ")
             subject = input("Subject this meeting: ")
             date = input("Date of this meeting: ")

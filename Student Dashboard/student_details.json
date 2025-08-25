@@ -1,0 +1,27 @@
+[
+    {
+        "Name": "winstone",
+        "ID": "2",
+        "Course": "3",
+        "Grade": "4",
+        "Attendance": "5%"
+    },
+    {
+        "Name": "mira",
+        "ID": "4",
+        "Course": [
+            "jS, C++, Django"
+        ],
+        "Grade": "6",
+        "Attendance": "7%"
+    },
+    {
+        "Name": "Jake",
+        "ID": "1",
+        "Course": [
+            "python, Java"
+        ],
+        "Grade": "8",
+        "Attendance": "10%"
+    }
+]
